@@ -62,7 +62,6 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
-
 # Social Sharing
 twitter:
   username               :
@@ -77,14 +76,12 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
-
 # Site Author
 author:
   name             : "Your Name"
@@ -111,7 +108,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
 # Site Footer
 footer:
   links:

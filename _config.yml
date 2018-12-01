@@ -108,25 +108,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:Callum@baston.uk
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.baston.uk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/B4ston"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://github.com/CallumBaston"
+    - label: "PayPal"
+      icon: "fab fa-fw fa-cc-paypal"
+      url: "https://www.paypal.me/yellowspace"
 # Reading Files
 include:
   - .htaccess

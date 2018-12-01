@@ -84,7 +84,7 @@ analytics:
     anonymize_ip         :  False # true, false (default)
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Callum Baston"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"

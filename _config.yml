@@ -2,7 +2,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Baston.uk"
+title                    : "Baston"
 title_separator          : "|"
 name                     : "Callum Baston"
 description              : "This Is My Web Portfolio"
@@ -103,7 +103,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CallumBaston"
     - label: "PayPal"
-      icon: ""
+      icon: "fab fa-fw fa-cc-paypal"
       url: "https://www.paypal.me/yellowspace"
 # Site Footer
 footer:

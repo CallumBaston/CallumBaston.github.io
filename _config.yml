@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Callum Baston"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a computer enthusiast at heart. I have been learning about computers since I was a kid. I want to take my projects online with this web portfolio. "
+  avatar           : "images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Website Computing Portfolio"
   location         : "UK, Scotland"
   email            :
   links:

@@ -111,6 +111,9 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:Callum@baston.uk
+    - label: "Admin Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:admin@baston.uk
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.baston.uk/"

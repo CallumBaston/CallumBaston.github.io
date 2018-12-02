@@ -6,7 +6,7 @@ Link to his GitHub: https://github.com/mmistakes
 Link to the template: https://github.com/mmistakes/minimal-mistakes/
 
 
-Im going to add this prodjects
+Im going to add this projects
 
 ````{% include base_path %}````
 ````{% include group-by-array collection=site.posts field="tags" %}````

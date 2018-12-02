@@ -1125,7 +1125,6 @@ ro: &DEFAULT_RO
   back_to_top                : "Înapoi în susul paginii"
 ro-RO:
   <<: *DEFAULT_RO
-  
 
 # Punjabi
 # -----------------

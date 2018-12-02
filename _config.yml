@@ -83,7 +83,7 @@ analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-130243547-1"
-    anonymize_ip         :  False # true, false (default)
+    anonymize_ip         :  false # true, false (default)
 # Site Author
 author:
   name             : "Callum Baston"
@@ -95,18 +95,15 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:Callum@baston.uk
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/B4ston"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CallumBaston"
-    - label: "PayPal"
-      icon: "fab fa-fw fa-cc-paypal"
-      url: "https://www.paypal.me/yellowspace"
     - label: "Reddit"
       icon: "fab fa-fw fa-reddit"
       url: "https://www.reddit.com/user/Beforston"
+    - label: "PayPal"
+      icon: "fab fa-fw fa-cc-paypal"
+      url: "https://www.paypal.me/yellowspace"
 # Site Footer
 footer:
   links:

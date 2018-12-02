@@ -5,7 +5,7 @@ locale                   : "en-GB"
 title                    : "Baston"
 title_separator          : "|"
 name                     : "Callum Baston"
-description              : "This Is My Web Portfolio"
+description              : "Callum Baston's Web Portfolio"
 url                      : "https://www.baston.uk/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "CallumBaston.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -73,9 +73,11 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Callum Baston # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+  - "https://twitter.com/B4ston"
+  - "https://github.com/CallumBaston"
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
@@ -93,9 +95,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:Callum@baston.uk
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.baston.uk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/B4ston"
@@ -105,13 +104,16 @@ author:
     - label: "PayPal"
       icon: "fab fa-fw fa-cc-paypal"
       url: "https://www.paypal.me/yellowspace"
+    - label: "Reddit"
+      icon: "fab fa-fw fa-reddit"
+      url: "https://www.reddit.com/user/Beforston"
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:Callum@baston.uk
-    - label: "Admin Email"
+    - label: "Website Admin Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:admin@baston.uk
     - label: "Website"

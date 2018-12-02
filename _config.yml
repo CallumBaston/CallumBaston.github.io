@@ -90,7 +90,7 @@ author:
   avatar           : "images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Website Computing Portfolio"
   location         : "UK, Scotland"
-  email            :
+  email            : "Callum@baston.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

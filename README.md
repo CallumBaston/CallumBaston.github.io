@@ -5,6 +5,7 @@ I'm using the Minimal-Mistakes template by Michel Rose.
 Link to his GitHub: https://github.com/mmistakes
 Link to the template: https://github.com/mmistakes/minimal-mistakes/
 
+Tutorial I used https://www.youtube.com/watch?v=qWrcgHwSG8M
 
 Im going to add this projects
 

@@ -90,8 +90,11 @@ author:
   avatar           : "images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Website Computing Portfolio"
   location         : "UK, Scotland"
-  email            : "Callum@baston.uk"
+  email            : 
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:Callum@baston.uk
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/B4ston"

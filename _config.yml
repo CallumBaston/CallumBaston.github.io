@@ -92,9 +92,6 @@ author:
   location         : "UK, Scotland"
   email            : "Callum@baston.uk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:Callum@baston.uk
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/B4ston"

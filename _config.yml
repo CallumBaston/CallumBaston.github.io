@@ -56,7 +56,7 @@ algolia:
   powered_by             : # true (default), false
 google:
   search_engine_id       : 015100201682454671089:mgzzb4ldz1c # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  instant_search         : true # false (default), true
 # SEO Related
 google_site_verification : taF0dM88c8rc3_JwKinIzMCVKIJXaubFD3SIeOLl1zo
 bing_site_verification   :
@@ -90,7 +90,7 @@ author:
   avatar           : "images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Website Computing Portfolio"
   location         : "UK, Scotland"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

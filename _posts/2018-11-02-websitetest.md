@@ -1,10 +1,10 @@
 ---
-title: "Making A Web Server"
+title: "Testing Website"
 date: 2018-11-02
-tags: [Website, VirtualBox, Server, Linux, Software, Internet, Ubuntu, Ubuntu Server]
+tags: [Website, md files, Examples]
 header:
   image: "images/webserver/serverhtop.PNG"
-excerpt: "Webserver, Website, Server, Locally Hosting A Website"
+excerpt: "Testing out the site"
 mathjax: "true"
 ---
 

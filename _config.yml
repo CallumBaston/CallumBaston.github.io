@@ -114,7 +114,7 @@ footer:
       url: "https://www.baston.uk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: <a href="https://twitter.com/B4ston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @B4ston</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/B4ston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @B4ston</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CallumBaston"

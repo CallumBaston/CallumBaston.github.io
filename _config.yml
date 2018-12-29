@@ -106,22 +106,22 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:Callum@baston.uk
-    - label: "Website Admin Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:admin@baston.uk
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.baston.uk/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/B4ston"
-      #<a href="https://twitter.com/B4ston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @B4ston</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CallumBaston"
     - label: "PayPal"
       icon: "fab fa-fw fa-cc-paypal"
       url: "https://www.paypal.me/yellowspace"
+    - label: "Want to buy this Website"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:admin@baston.uk
 # Reading Files
 include:
   - .htaccess

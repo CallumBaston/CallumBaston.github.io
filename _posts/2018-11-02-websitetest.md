@@ -46,6 +46,9 @@ library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
 ```
+```
+<a href="https://twitter.com/B4ston?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @B4ston</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
 Here's some inline code `x+y`.
 
 Here's an image:

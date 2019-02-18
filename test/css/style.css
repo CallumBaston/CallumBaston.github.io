@@ -2,19 +2,44 @@
 /* CSS Document */
 /* to write a not souround it like this*/
 body{
-	background: #9b596b; /* id rather have #9b596b witch is a deep light red */
+	background: #eaeaea; /* id rather have #9b596b witch is a deep light red */
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; /*font type for the body tags*/
 }
 h1{
 	color: #42f4e8; /*I am so shit at this like honsetly I should never code... ever*/
 }
 h2{
-	color: #dfd;
+	color: #2a3c59;
 }
 h3{
-	color: #aee;
+	color: #1f5b13;
 }
 h6{
+}
+#title{
+	width:100%;
+	height:auto;
+	overflow:auto;
+	text-align:center;
+}
+
+#title h2 {
+	margin:0;
+	padding:40px 0 0 0;
+}
+
+#title p {
+	margin:0;
+	font-size:14px;
+	color:#F33538;
+	padding:0 0 40px 0;
+}
+#Photocontainer{
+	width: 314px;
+	height: 228px;
+	margin-left: 50px;
+	align-items: stretch;
+	float: left;
 }
 a{
 	display: block;

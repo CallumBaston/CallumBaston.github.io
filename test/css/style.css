@@ -45,13 +45,16 @@ h5{
 }
 a{
 	display: block;
-	width: 100px; /*block hight*/
+	width: 100%; /*block hight*/
 	height: 40px; /*block width*/
 	line-height: 40px; /*the hight of the line the text sits on*/
 	text-align: center;
 	background: #000000; /*background of the box*/
 	color: #f44242; /*text color*/
 	text-decoration: none;
+	align-content: center;
+	align-self: center;
+
 }
 a:hover{
 	background: #48f442;/*when you hover over the box it changes color*/

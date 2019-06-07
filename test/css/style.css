@@ -1,61 +1,78 @@
 @charset "utf-8";
+
 /* CSS Document */
 /* to write a not souround it like this*/
-body{
-	background: #eaeaea; /* id rather have #9b596b witch is a deep light red */
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; /*font type for the body tags*/
+body {
+  background: #eaeaea;
+  /* id rather have #9b596b witch is a deep light red */
+  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+  /*font type for the body tags*/
 }
-h1{
-	color: #1E1E1E; /*I am so shit at this like honsetly I should never code... ever*/
-	text-align: center;
+
+h1 {
+  color: #1E1E1E;
+  /*I am so shit at this like honsetly I should never code... ever*/
+  text-align: center;
 }
-h2{
-	color: #2a3c59;
+
+h2 {
+  color: #2a3c59;
 }
-h3{
-	color: #1f5b13;
+
+h3 {
+  color: #1f5b13;
 }
-h5{
-	color: #C80003;
-	text-align: center;
+
+h5 {
+  color: #C80003;
+  text-align: center;
 }
-#title{
-	width:100%;
-	height:auto;
-	overflow:auto;
-	text-align:center;
+
+#title {
+  width: 100%;
+  height: auto;
+  overflow: auto;
+  text-align: center;
 }
 
 #title h2 {
-	margin:0;
-	padding:40px 0 0 0;
+  margin: 0;
+  padding: 40px 0 0 0;
 }
 
 #title p {
-	margin:0;
-	font-size:14px;
-	color:#F33538;
-	padding:0 0 40px 0;
+  margin: 0;
+  font-size: 14px;
+  color: #F33538;
+  padding: 0 0 40px 0;
 }
-#Photocontainer{
-	width: 80%;
-	height: 228px;
-	text-align: center;
-	margin-left: 10%;
-}
-a{
-	display: block;
-	width: 100%; /*block hight*/
-	height: 40px; /*block width*/
-	line-height: 40px; /*the hight of the line the text sits on*/
-	text-align: center;
-	background: #000000; /*background of the box*/
-	color: #f44242; /*text color*/
-	text-decoration: none;
-	align-content: center;
-	align-self: center;
 
+#Photocontainer {
+  width: 80%;
+  height: 228px;
+  text-align: center;
+  margin-left: 10%;
 }
-a:hover{
-	background: #48f442;/*when you hover over the box it changes color*/
+
+a {
+  display: block;
+  width: 100%;
+  /*block hight*/
+  height: 40px;
+  /*block width*/
+  line-height: 40px;
+  /*the hight of the line the text sits on*/
+  text-align: center;
+  background: #000000;
+  /*background of the box*/
+  color: #f44242;
+  /*text color*/
+  text-decoration: none;
+  align-content: center;
+  align-self: center;
+}
+
+a:hover {
+  background: #48f442;
+  /*when you hover over the box it changes color*/
 }

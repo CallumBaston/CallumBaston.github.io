@@ -1,5 +1,12 @@
 User-agent: *
-Disallow:
+Disallow: /test/
+Disallow: /hackers/
 
+# If your a human looking at this file just know that it's
+# practically useless to everyone except google and yahoo
+# Chinese company I got a lot of visits from
 User-agent: Baidu
+Disallow: /
+# Yahoo' bot
+User-agent: Slurp
 Disallow: /

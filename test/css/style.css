@@ -47,6 +47,29 @@ h5 {
   padding: 0 0 40px 0;
 }
 
+#title a {
+  display: block;
+  width: 100%;
+  /*block hight*/
+  height: 40px;
+  /*block width*/
+  line-height: 40px;
+  /*the hight of the line the text sits on*/
+  text-align: center;
+  background: #000000;
+  /*background of the box*/
+  color: #00ff00;
+  /*text color*/
+  text-decoration: none;
+  align-content: center;
+  align-self: center;
+}
+
+#title a:hover {
+  background: #48f442;
+  /*when you hover over the box it changes color*/
+}
+
 #Photocontainer {
   width: 80%;
   height: 228px;

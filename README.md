@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/CallumBaston/CallumBaston.github.io.svg?style=plastic)
+![Website](https://img.shields.io/website/https/baston.uk.svg?down_color=Red&down_message=Offline&style=plastic&up_color=Green&up_message=Online)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CallumBaston/CallumBaston.github.io.svg?style=plastic)
 # My web portfolio
 This is the GitHub repository for my website [Baston.uk][1]. I have been building this website for use as a web
 portfolio. This repository contains all the things necessary for a good open source project on GitHub such as a

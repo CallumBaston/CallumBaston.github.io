@@ -21,7 +21,6 @@ And here is some *italics*
 And here is some **bold** text
 
 A link to the [AllTube-DL](https://baston-alltube-dl.herokuapp.com/)
-A link to the [TEST PAGE](https://www.baston.uk/test/ads.html)
 Here's a bullet list:
 * First item
 + second item

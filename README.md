@@ -8,15 +8,6 @@ This is the GitHub repository for my website [Baston.uk][1]. I have been buildin
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. I chose this license because I want someone to be able to adapt this and use it as a template for their portfolio however I don't want it to be used by a business for their website. The license also requires that you give appropriate credit and provide a [link to the license][5].
 
-#### Special Thanks
-In order of acquaintance.
-* Bootstrap
-* David Deutsch - Owl Carousel 2.2.1
-* @geedmo - Yamm!3
-* @davegandy - Font Awesome 4.7.0
-* jQuery Foundation - jQuery v1.12.4
-* Pete Rojwongsuriya - jquery-simple-text-rotator.js v1
-
 [1]: <https://www.baston.uk/> "Link to baston.uk"
 [2]: <https://github.com/CallumBaston/CallumBaston.github.io/blob/master/License.md> "Link to this repository's License.md"
 [3]: <https://github.com/CallumBaston/CallumBaston.github.io/blob/master/CODE_OF_CONDUCT.md> "Link to this repository's CODE_OF_CONDUCT.md"
